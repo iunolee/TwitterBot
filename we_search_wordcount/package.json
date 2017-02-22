@@ -1,0 +1,19 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "node-twitter-api": "^1.8.0",
+    "rita": "^1.1.51",
+    "shuffle-array": "^1.0.0",
+    "wordfilter": "^0.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
